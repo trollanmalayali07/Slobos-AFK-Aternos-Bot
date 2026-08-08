@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NOTWELCOMETOSONU.aternos.me:58352",
+    "ip": "NOTWELCOMETOSONU.aternos.me",
     "port": 58352,
     "version": "",
     "try-creative": false
